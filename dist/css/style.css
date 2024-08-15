@@ -2285,7 +2285,7 @@ body * {
 
 .image-item__text--big::before {
   content: "";
-  background: url("../../images/icons/overview-icon-1.svg") no-repeat;
+  background: url("../images/icons/overview-icon-1.svg") no-repeat;
   position: absolute;
   top: 16px;
   left: 18px;
@@ -2301,7 +2301,7 @@ body * {
 
 .image-item__text--middle::before {
   content: "";
-  background: url("../../images/icons/overview-icon-2.svg") no-repeat;
+  background: url("../images/icons/overview-icon-2.svg") no-repeat;
   position: absolute;
   left: 18px;
   bottom: 16px;
@@ -2318,7 +2318,7 @@ body * {
 
 .image-item__text--small::before {
   content: "";
-  background: url("../../images/icons/overview-icon-2.svg") no-repeat;
+  background: url("../images/icons/overview-icon-2.svg") no-repeat;
   position: absolute;
   right: 18px;
   bottom: 16px;
